@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+[Ll]og/
+[Ll]ogs/
+.DS_Store
